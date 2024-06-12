@@ -35,13 +35,13 @@ body {
   .publication-links {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center; 
+    justify-content: center;
   }
 }
 .publication-links {
   display: flex;
   /* flex-wrap: wrap; */
-  justify-content: center; 
+  justify-content: center;
 
 }
 
@@ -190,14 +190,14 @@ body {
 }
 
 .bottom-text {
-  margin-top: 30px; 
+  margin-top: 30px;
 }
 
 
 .model-labels-container {
   text-align: right;
   margin-top: 8px;
-  margin-bottom: 8px; 
+  margin-bottom: 8px;
 }
 
 .model-label {
@@ -218,10 +218,10 @@ body {
 
 .box {
   display: flex;
-  align-items: center; 
-  justify-content: center; 
+  align-items: center;
+  justify-content: center;
   height: 100%;
-  margin: 5px; 
+  margin: 5px;
 }
 
 .cmmmu-green {
@@ -253,8 +253,8 @@ body {
 }
 
 
-.cmmmu-container .title.is-3 {
-  background: #205f44;
+.II-Bench-container .title.is-3 {
+  background: #5db981;
   color: #fff;
   border-radius: 50px;
   padding: 10px 0;
